@@ -1,4 +1,3 @@
-# Online-Quiz-System
 # Multi-threaded Online Quiz System
 
 This is a Multi-threaded Online Quiz System developed in Python based on the TCP protocol. The project includes the development of one Main Server, three Sub-servers, and supports an unlimited number of clients.
